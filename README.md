@@ -5,6 +5,9 @@ This repository contains a number of android interview questions that can be use
 ## List of the questions
 You can find complete list of questions on the [wiki page](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki)
 
+## Test assignments
+Examples of test assignments can be found [here](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Test-Assignments)
+
 ## Interview examples
 [Junior android developer](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Junior-android-developer-interview-questions)  
 [Middle android developer (Rx stack)](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Middle-android-developer-interview-questions-(Rx-stack))  
@@ -12,16 +15,19 @@ You can find complete list of questions on the [wiki page](https://github.com/Ki
 
 ## Questions count
 
-[Android](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Android): 93  
+[Android](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Android): 95  
 [Java](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Java): 69  
 [Kotlin](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Kotlin): 48  
 [Rx](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Rx): 20  
 [General](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/General): 45  
 [Testing](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Testing): 13  
 [Patterns](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Patterns): 28  
-[Libraries](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Libraries): 12
+[Libraries](https://github.com/Kirchhoff-/Android-Interview-Questions/wiki/Libraries): 13
 
-Total number of questions: 326
+Total number of questions: 329
+
+## Discussions
+The [Discussions](https://github.com/Kirchhoff-/Android-Interview-Questions/discussions) section also works. It contains questions where your opinion would be interesting to know.
 
 ## Contributing
 Pull Request are highly appreciated. Feel free to create a pull request if you find any mistakes or have better answers. Thanks a lot, and hope this is useful.
